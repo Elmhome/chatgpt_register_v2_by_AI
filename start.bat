@@ -1,0 +1,1 @@
+"D:\Python\Python314\python.exe" "D:\Project\Elmhome\chatgpt_register_v2_by_AI\chatgpt_register_v2.py" -n 5 -w 3
